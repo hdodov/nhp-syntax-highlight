@@ -1,1 +1,1 @@
-# nhp-syntax-highlight
+# Syntax highlighting for [NHP](https://nhpjs.com/) in [Sublime Text](https://www.sublimetext.com/)
